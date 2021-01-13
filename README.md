@@ -1,2 +1,2 @@
-# pure-css-mix-blend-mode
+# Pure CSS mix-blend-mode
 GitHub Pages
